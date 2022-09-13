@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:wght@400;500;700&display=swap');
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+body {
+font-family: "Roboto";
+   font-weight: 400;
+}
+h1 {
+   color: rgb(43, 100, 3);
+   font-family: "Larsseit";
+   font-weight: 900;
+}
+#top {
+   color: rgb(109, 4, 70);
+}
+
+.title {
+   color: rgb(121, 61, 5);
+   font-family: "Larsseit";
+   font-weight: 700;
+}
+.title-text {
+   color: blue;
+   font-family: "Larsseit";
+   font-weight: 500;
+}
+p.title-text {
+   color: rgb(170, 255, 0);
+   font-family: "Larsseit";
+   font-weight: 500;
+}
+.main-text {
+   color: rgb(255, 157, 127);
+}
+.main-list {
+   color: rgb(38, 235, 176);
+   font-family: "Larsseit";
+   font-weight: 700;
+      
+}
+.main-blok {
+   font-family: "Lato";
+   font-weight: 700;
+}
+.main-blok p{
+   color: rgb(240, 124, 47);
+}
+.text-first {
+   color: rgb(107, 130, 15);
+   font-family: "Roboto";
+   font-weight: 700;
+}
+.text-second {
+   color: rgb(64, 152, 239);
+}
+.list li {
+   color: blueviolet;
+}
+.footer {
+   color: rgb(165, 42, 112);
+   font-family: "Roboto";
+   font-weight: 900;
+}
